@@ -3,13 +3,21 @@
 ## Description
 Introduction to Boybands Loop through the two arrays provided (bands and vegetables) and output each element in the arrays into their corresponding HTML element.
 
-## How to run
-In your terminal run:
-```
-http-server -p 9999
-```
-then navigate to [http://localhost:9999](http://localhost:9999) in your browser.
+### Final Result:
+> Single Page Application displaying arrays 
 
 
-## Contributers
--[Nathan Ostrander](https://github.com/ostrander-nathan)
+### Take-home Lesson:
+
+> Basic looping
+
+### How to run (Node must be installed on your machine):
+```
+git clone https://github.com/ostrander-nathan/boybands
+npm install http-server -g
+http-server -p 8080
+```
+
+
+### Contributors:
+[Nathan Ostrander](https://github.com/ostrander-nathan)
